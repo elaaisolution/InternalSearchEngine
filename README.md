@@ -1,6 +1,6 @@
-# Just Give me a Star if u like the tool
+# Just give me a star if u like the tool
 
-# InternalSearchResults
+# Internal Search Results
 
     You can modify the search engine internally.
 
