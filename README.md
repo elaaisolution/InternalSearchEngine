@@ -11,7 +11,7 @@
   
      Simply run index.html and search sample words see the search result. 
      
-     Sample : url : https://elaaisolution.github.io/InternalSearchEngine/index.html
+     Sample url : https://elaaisolution.github.io/InternalSearchEngine/index.html
      
      Thank you :-)
   
