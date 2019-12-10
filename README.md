@@ -1,4 +1,4 @@
-# Just Give me Star if u like the tool
+# Just Give me a Star if u like the tool
 
 # InternalSearchResults
 
