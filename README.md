@@ -9,6 +9,6 @@
   * Readme
   * Index
   
-     Simply run search.html and search sample words see the search result. Thank you :-)
+     Simply run index.html and search sample words see the search result. Thank you :-)
   
     
